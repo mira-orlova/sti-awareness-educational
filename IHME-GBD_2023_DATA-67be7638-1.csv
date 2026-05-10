@@ -1,0 +1,433 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,6,Incidence,1,Global,1,Male,8,15-19 years,393,Sexually transmitted infections excluding HIV,3,Rate,2001,5457.52822923859,7962.177290785879,3722.3926544710102
+1,All Population,6,Incidence,1,Global,2,Female,8,15-19 years,393,Sexually transmitted infections excluding HIV,3,Rate,2001,6383.99099962643,8205.39712579479,4955.34530169776
+1,All Population,6,Incidence,1,Global,1,Male,9,20-24 years,393,Sexually transmitted infections excluding HIV,3,Rate,2001,15465.46929316307,21210.644007342842,10530.94149831839
+1,All Population,6,Incidence,1,Global,2,Female,9,20-24 years,393,Sexually transmitted infections excluding HIV,3,Rate,2001,14839.60783678133,19489.7851884949,11492.62676436654
+1,All Population,6,Incidence,1,Global,1,Male,10,25-29 years,393,Sexually transmitted infections excluding HIV,3,Rate,2001,20281.27263867995,27650.84927127295,13994.4022255685
+1,All Population,6,Incidence,1,Global,2,Female,10,25-29 years,393,Sexually transmitted infections excluding HIV,3,Rate,2001,15752.10526128138,20190.46012492394,11993.855546878649
+1,All Population,6,Incidence,1,Global,1,Male,11,30-34 years,393,Sexually transmitted infections excluding HIV,3,Rate,2001,15291.18767262933,21639.87409975813,10536.62649871004
+1,All Population,6,Incidence,1,Global,2,Female,11,30-34 years,393,Sexually transmitted infections excluding HIV,3,Rate,2001,9938.76800640756,12755.68854982494,7911.711549687039
+1,All Population,6,Incidence,1,Global,1,Male,12,35-39 years,393,Sexually transmitted infections excluding HIV,3,Rate,2001,7395.32872129222,10401.06514965352,5051.38152404361
+1,All Population,6,Incidence,1,Global,2,Female,12,35-39 years,393,Sexually transmitted infections excluding HIV,3,Rate,2001,4599.32622461101,5605.5262665910395,3857.4198743641
+1,All Population,6,Incidence,1,Global,1,Male,13,40-44 years,393,Sexually transmitted infections excluding HIV,3,Rate,2001,2763.07578990274,4042.8161126817295,1803.21819856771
+1,All Population,6,Incidence,1,Global,2,Female,13,40-44 years,393,Sexually transmitted infections excluding HIV,3,Rate,2001,1636.25819968699,1895.57471659749,1399.5937301035399
+1,All Population,6,Incidence,1,Global,1,Male,39,0-14 years,393,Sexually transmitted infections excluding HIV,3,Rate,2001,246.64619437202,341.3843408862,188.62717416527002
+1,All Population,6,Incidence,1,Global,2,Female,39,0-14 years,393,Sexually transmitted infections excluding HIV,3,Rate,2001,340.2846962664,412.09160284423,272.74303389982
+1,All Population,6,Incidence,1,Global,1,Male,41,50-74 years,393,Sexually transmitted infections excluding HIV,3,Rate,2001,700.38110791754,1126.3697278013701,423.15200582462
+1,All Population,6,Incidence,1,Global,2,Female,41,50-74 years,393,Sexually transmitted infections excluding HIV,3,Rate,2001,379.80218334193,450.75515265701,321.92751737265
+1,All Population,6,Incidence,1,Global,1,Male,234,75+ years,393,Sexually transmitted infections excluding HIV,3,Rate,2001,0.00071449442,0.00136511494,0.00034006724999999997
+1,All Population,6,Incidence,1,Global,2,Female,234,75+ years,393,Sexually transmitted infections excluding HIV,3,Rate,2001,0.0003826406,0.000546642,0.00023169572000000002
+1,All Population,6,Incidence,1,Global,1,Male,8,15-19 years,298,HIV/AIDS,3,Rate,2001,17.54151785298,20.65814164365,14.87221246301
+1,All Population,6,Incidence,1,Global,2,Female,8,15-19 years,298,HIV/AIDS,3,Rate,2001,86.05934011202,92.45716720944999,80.05776282171
+1,All Population,6,Incidence,1,Global,1,Male,9,20-24 years,298,HIV/AIDS,3,Rate,2001,47.34661658444,52.95963081957999,42.38726407382
+1,All Population,6,Incidence,1,Global,2,Female,9,20-24 years,298,HIV/AIDS,3,Rate,2001,92.73520033559,100.27103223421,86.32736715082
+1,All Population,6,Incidence,1,Global,1,Male,10,25-29 years,298,HIV/AIDS,3,Rate,2001,95.17976312862,102.97419254561001,88.05705216682
+1,All Population,6,Incidence,1,Global,2,Female,10,25-29 years,298,HIV/AIDS,3,Rate,2001,112.79452171756,120.05188322435001,105.92124623567999
+1,All Population,6,Incidence,1,Global,1,Male,11,30-34 years,298,HIV/AIDS,3,Rate,2001,90.30009233167,97.62599011015,84.07847805049
+1,All Population,6,Incidence,1,Global,2,Female,11,30-34 years,298,HIV/AIDS,3,Rate,2001,66.26259509392,72.47644308235,61.50570571318
+1,All Population,6,Incidence,1,Global,1,Male,12,35-39 years,298,HIV/AIDS,3,Rate,2001,76.73517522739,85.15184866607001,70.51236463922
+1,All Population,6,Incidence,1,Global,2,Female,12,35-39 years,298,HIV/AIDS,3,Rate,2001,57.037337933959996,62.196780053,52.52656878450001
+1,All Population,6,Incidence,1,Global,1,Male,13,40-44 years,298,HIV/AIDS,3,Rate,2001,50.63600564569,56.91424797291,45.78216030383
+1,All Population,6,Incidence,1,Global,2,Female,13,40-44 years,298,HIV/AIDS,3,Rate,2001,50.41395434543,54.87025957801001,46.03521366166
+1,All Population,6,Incidence,1,Global,1,Male,39,0-14 years,298,HIV/AIDS,3,Rate,2001,34.49432483211,35.93525681187,33.47069574498
+1,All Population,6,Incidence,1,Global,2,Female,39,0-14 years,298,HIV/AIDS,3,Rate,2001,35.501296385719996,37.03383699497,34.441976418820005
+1,All Population,6,Incidence,1,Global,1,Male,41,50-74 years,298,HIV/AIDS,3,Rate,2001,23.72190967639,26.20595503981,21.409812479990002
+1,All Population,6,Incidence,1,Global,2,Female,41,50-74 years,298,HIV/AIDS,3,Rate,2001,21.51401732556,23.21810783005,19.85402388675
+1,All Population,6,Incidence,1,Global,1,Male,234,75+ years,298,HIV/AIDS,3,Rate,2001,7.75547840537,8.98188312437,6.56312161362
+1,All Population,6,Incidence,1,Global,2,Female,234,75+ years,298,HIV/AIDS,3,Rate,2001,2.3215695864500003,2.70638472052,1.96532823349
+1,All Population,6,Incidence,1,Global,1,Male,8,15-19 years,393,Sexually transmitted infections excluding HIV,3,Rate,2003,5470.10973143762,7962.051327858941,3741.39611746372
+1,All Population,6,Incidence,1,Global,2,Female,8,15-19 years,393,Sexually transmitted infections excluding HIV,3,Rate,2003,6361.4788628488795,8194.93297117898,4944.159741186039
+1,All Population,6,Incidence,1,Global,1,Male,9,20-24 years,393,Sexually transmitted infections excluding HIV,3,Rate,2003,15494.080327214011,21297.57186074887,10563.39460854517
+1,All Population,6,Incidence,1,Global,2,Female,9,20-24 years,393,Sexually transmitted infections excluding HIV,3,Rate,2003,14866.98818973839,19503.10999525834,11539.90442413986
+1,All Population,6,Incidence,1,Global,1,Male,10,25-29 years,393,Sexually transmitted infections excluding HIV,3,Rate,2003,20338.51000512581,27751.266568871702,14020.152004845391
+1,All Population,6,Incidence,1,Global,2,Female,10,25-29 years,393,Sexually transmitted infections excluding HIV,3,Rate,2003,15808.788065430528,20273.62866124251,12009.93077778662
+1,All Population,6,Incidence,1,Global,1,Male,11,30-34 years,393,Sexually transmitted infections excluding HIV,3,Rate,2003,15314.701483912972,21638.59499723965,10534.18910930862
+1,All Population,6,Incidence,1,Global,2,Female,11,30-34 years,393,Sexually transmitted infections excluding HIV,3,Rate,2003,9876.05865158326,12649.43773404662,7894.07716780098
+1,All Population,6,Incidence,1,Global,1,Male,12,35-39 years,393,Sexually transmitted infections excluding HIV,3,Rate,2003,7446.83411162014,10461.36074085113,5099.17939048682
+1,All Population,6,Incidence,1,Global,2,Female,12,35-39 years,393,Sexually transmitted infections excluding HIV,3,Rate,2003,4594.149718521149,5554.76294111088,3842.49875175241
+1,All Population,6,Incidence,1,Global,1,Male,13,40-44 years,393,Sexually transmitted infections excluding HIV,3,Rate,2003,2771.68362426884,4061.68124475703,1817.70670101266
+1,All Population,6,Incidence,1,Global,2,Female,13,40-44 years,393,Sexually transmitted infections excluding HIV,3,Rate,2003,1633.54556730392,1888.6245621899798,1399.440708903
+1,All Population,6,Incidence,1,Global,1,Male,39,0-14 years,393,Sexually transmitted infections excluding HIV,3,Rate,2003,248.66469345928002,341.44422707729,190.4110687858
+1,All Population,6,Incidence,1,Global,2,Female,39,0-14 years,393,Sexually transmitted infections excluding HIV,3,Rate,2003,344.45442995567004,417.17631765332,275.61497248751
+1,All Population,6,Incidence,1,Global,1,Male,41,50-74 years,393,Sexually transmitted infections excluding HIV,3,Rate,2003,709.94628612499,1142.90748236838,429.03663321505996
+1,All Population,6,Incidence,1,Global,2,Female,41,50-74 years,393,Sexually transmitted infections excluding HIV,3,Rate,2003,384.58527940882,456.56458052608,325.76656225354
+1,All Population,6,Incidence,1,Global,1,Male,234,75+ years,393,Sexually transmitted infections excluding HIV,3,Rate,2003,0.00071710051,0.00138244622,0.00033795123
+1,All Population,6,Incidence,1,Global,2,Female,234,75+ years,393,Sexually transmitted infections excluding HIV,3,Rate,2003,0.00038229563,0.00054737143,0.0002322661
+1,All Population,6,Incidence,1,Global,1,Male,8,15-19 years,393,Sexually transmitted infections excluding HIV,3,Rate,2005,5506.24506724491,8006.0204348935695,3776.49484136741
+1,All Population,6,Incidence,1,Global,2,Female,8,15-19 years,393,Sexually transmitted infections excluding HIV,3,Rate,2005,6374.7432769568995,8198.034906634059,4972.94899356875
+1,All Population,6,Incidence,1,Global,1,Male,9,20-24 years,393,Sexually transmitted infections excluding HIV,3,Rate,2005,15511.284940795538,21332.238098274207,10590.69915658978
+1,All Population,6,Incidence,1,Global,2,Female,9,20-24 years,393,Sexually transmitted infections excluding HIV,3,Rate,2005,14853.13089262103,19473.11242387381,11559.42892211507
+1,All Population,6,Incidence,1,Global,1,Male,10,25-29 years,393,Sexually transmitted infections excluding HIV,3,Rate,2005,20364.823443224937,27803.11547048008,14027.22603089937
+1,All Population,6,Incidence,1,Global,2,Female,10,25-29 years,393,Sexually transmitted infections excluding HIV,3,Rate,2005,15848.86207310062,20341.18715890954,12085.84624683455
+1,All Population,6,Incidence,1,Global,1,Male,11,30-34 years,393,Sexually transmitted infections excluding HIV,3,Rate,2005,15351.677553588592,21653.75545489412,10537.14548908273
+1,All Population,6,Incidence,1,Global,2,Female,11,30-34 years,393,Sexually transmitted infections excluding HIV,3,Rate,2005,9852.75602370516,12619.87287124539,7908.89086655482
+1,All Population,6,Incidence,1,Global,1,Male,12,35-39 years,393,Sexually transmitted infections excluding HIV,3,Rate,2005,7452.02762290071,10438.54854286292,5091.40887734367
+1,All Population,6,Incidence,1,Global,2,Female,12,35-39 years,393,Sexually transmitted infections excluding HIV,3,Rate,2005,4570.65661997802,5511.419794903421,3823.96225927503
+1,All Population,6,Incidence,1,Global,1,Male,13,40-44 years,393,Sexually transmitted infections excluding HIV,3,Rate,2005,2770.9914479555,4114.3062759576205,1819.80449980196
+1,All Population,6,Incidence,1,Global,2,Female,13,40-44 years,393,Sexually transmitted infections excluding HIV,3,Rate,2005,1627.7463728116797,1878.40024384784,1392.3630746387998
+1,All Population,6,Incidence,1,Global,1,Male,39,0-14 years,393,Sexually transmitted infections excluding HIV,3,Rate,2005,248.99628704184002,339.08627424572,190.90415379059
+1,All Population,6,Incidence,1,Global,2,Female,39,0-14 years,393,Sexually transmitted infections excluding HIV,3,Rate,2005,346.07211146796,418.46189298623,276.96462379374
+1,All Population,6,Incidence,1,Global,1,Male,41,50-74 years,393,Sexually transmitted infections excluding HIV,3,Rate,2005,720.28592894733,1158.9564087007,435.3908458089
+1,All Population,6,Incidence,1,Global,2,Female,41,50-74 years,393,Sexually transmitted infections excluding HIV,3,Rate,2005,390.23116146709,463.58423446885,330.44747604437003
+1,All Population,6,Incidence,1,Global,1,Male,234,75+ years,393,Sexually transmitted infections excluding HIV,3,Rate,2005,0.00071855106,0.0013887063499999999,0.000336124
+1,All Population,6,Incidence,1,Global,2,Female,234,75+ years,393,Sexually transmitted infections excluding HIV,3,Rate,2005,0.00038154574,0.0005575267200000001,0.00023217911
+1,All Population,6,Incidence,1,Global,1,Male,8,15-19 years,393,Sexually transmitted infections excluding HIV,3,Rate,2007,5587.8649933666,8174.203725552349,3846.0021211985004
+1,All Population,6,Incidence,1,Global,2,Female,8,15-19 years,393,Sexually transmitted infections excluding HIV,3,Rate,2007,6473.5705754602595,8350.143464758079,5036.02771961197
+1,All Population,6,Incidence,1,Global,1,Male,9,20-24 years,393,Sexually transmitted infections excluding HIV,3,Rate,2007,15590.659481210989,21378.3370943033,10625.470247814459
+1,All Population,6,Incidence,1,Global,2,Female,9,20-24 years,393,Sexually transmitted infections excluding HIV,3,Rate,2007,14950.43310148775,19627.88463216501,11643.83553454319
+1,All Population,6,Incidence,1,Global,1,Male,10,25-29 years,393,Sexually transmitted infections excluding HIV,3,Rate,2007,20385.75135582545,27883.268965459567,14036.777926533769
+1,All Population,6,Incidence,1,Global,2,Female,10,25-29 years,393,Sexually transmitted infections excluding HIV,3,Rate,2007,16002.81083590335,20582.068891919513,12156.80136438513
+1,All Population,6,Incidence,1,Global,1,Male,11,30-34 years,393,Sexually transmitted infections excluding HIV,3,Rate,2007,15385.776767879112,21670.47510725949,10574.24997322735
+1,All Population,6,Incidence,1,Global,2,Female,11,30-34 years,393,Sexually transmitted infections excluding HIV,3,Rate,2007,9927.516331430781,12691.05210096567,7976.316772823639
+1,All Population,6,Incidence,1,Global,1,Male,12,35-39 years,393,Sexually transmitted infections excluding HIV,3,Rate,2007,7499.80273017231,10541.22948906532,5113.88334158391
+1,All Population,6,Incidence,1,Global,2,Female,12,35-39 years,393,Sexually transmitted infections excluding HIV,3,Rate,2007,4600.80048131697,5547.05791104164,3833.3793563494296
+1,All Population,6,Incidence,1,Global,1,Male,13,40-44 years,393,Sexually transmitted infections excluding HIV,3,Rate,2007,2821.4682831987,4179.4228084180795,1844.7880199157
+1,All Population,6,Incidence,1,Global,2,Female,13,40-44 years,393,Sexually transmitted infections excluding HIV,3,Rate,2007,1654.8588645652299,1912.41202028677,1414.00321165598
+1,All Population,6,Incidence,1,Global,1,Male,39,0-14 years,393,Sexually transmitted infections excluding HIV,3,Rate,2007,247.37797228635,338.11274069938,189.25077975929
+1,All Population,6,Incidence,1,Global,2,Female,39,0-14 years,393,Sexually transmitted infections excluding HIV,3,Rate,2007,344.86288920210995,419.39339598929,274.58249419954996
+1,All Population,6,Incidence,1,Global,1,Male,41,50-74 years,393,Sexually transmitted infections excluding HIV,3,Rate,2007,729.08831636635,1172.21994853926,441.71824533755995
+1,All Population,6,Incidence,1,Global,2,Female,41,50-74 years,393,Sexually transmitted infections excluding HIV,3,Rate,2007,395.2520693794,467.69323163332,334.53670105096
+1,All Population,6,Incidence,1,Global,1,Male,234,75+ years,393,Sexually transmitted infections excluding HIV,3,Rate,2007,0.0006990981200000001,0.0013657201100000002,0.00032555406
+1,All Population,6,Incidence,1,Global,2,Female,234,75+ years,393,Sexually transmitted infections excluding HIV,3,Rate,2007,0.00037266489,0.00054109666,0.00022612773
+1,All Population,6,Incidence,1,Global,1,Male,8,15-19 years,393,Sexually transmitted infections excluding HIV,3,Rate,2009,5683.82055315738,8369.76937310174,3926.30169491696
+1,All Population,6,Incidence,1,Global,2,Female,8,15-19 years,393,Sexually transmitted infections excluding HIV,3,Rate,2009,6614.2740082213,8523.863905849561,5141.8271664228005
+1,All Population,6,Incidence,1,Global,1,Male,9,20-24 years,393,Sexually transmitted infections excluding HIV,3,Rate,2009,15753.14038354772,21581.46393556025,10693.46229510241
+1,All Population,6,Incidence,1,Global,2,Female,9,20-24 years,393,Sexually transmitted infections excluding HIV,3,Rate,2009,15147.84783729809,19921.81024976715,11786.264540953991
+1,All Population,6,Incidence,1,Global,1,Male,10,25-29 years,393,Sexually transmitted infections excluding HIV,3,Rate,2009,20430.96208082647,27969.284936847722,14070.00666138439
+1,All Population,6,Incidence,1,Global,2,Female,10,25-29 years,393,Sexually transmitted infections excluding HIV,3,Rate,2009,16191.2235777921,20872.88167957274,12224.50736366347
+1,All Population,6,Incidence,1,Global,1,Male,11,30-34 years,393,Sexually transmitted infections excluding HIV,3,Rate,2009,15395.35720589123,21651.29431229453,10583.89393164367
+1,All Population,6,Incidence,1,Global,2,Female,11,30-34 years,393,Sexually transmitted infections excluding HIV,3,Rate,2009,10019.58074090132,12822.08262564283,8048.49583488106
+1,All Population,6,Incidence,1,Global,1,Male,12,35-39 years,393,Sexually transmitted infections excluding HIV,3,Rate,2009,7575.91875943384,10705.9550122408,5167.34358999226
+1,All Population,6,Incidence,1,Global,2,Female,12,35-39 years,393,Sexually transmitted infections excluding HIV,3,Rate,2009,4655.87673911124,5621.54243651069,3863.95791349001
+1,All Population,6,Incidence,1,Global,1,Male,13,40-44 years,393,Sexually transmitted infections excluding HIV,3,Rate,2009,2902.1788779898,4256.44096929129,1883.6605027012902
+1,All Population,6,Incidence,1,Global,2,Female,13,40-44 years,393,Sexually transmitted infections excluding HIV,3,Rate,2009,1699.46971046599,1979.57113804713,1452.29758383132
+1,All Population,6,Incidence,1,Global,1,Male,39,0-14 years,393,Sexually transmitted infections excluding HIV,3,Rate,2009,244.47676557101,337.48786579672,186.38222489112
+1,All Population,6,Incidence,1,Global,2,Female,39,0-14 years,393,Sexually transmitted infections excluding HIV,3,Rate,2009,342.62747910776,420.63800715857,271.84578166823
+1,All Population,6,Incidence,1,Global,1,Male,41,50-74 years,393,Sexually transmitted infections excluding HIV,3,Rate,2009,737.81233903924,1186.36550850229,444.86480055177003
+1,All Population,6,Incidence,1,Global,2,Female,41,50-74 years,393,Sexually transmitted infections excluding HIV,3,Rate,2009,400.17033888324,472.69770845541996,339.82760311238997
+1,All Population,6,Incidence,1,Global,1,Male,234,75+ years,393,Sexually transmitted infections excluding HIV,3,Rate,2009,0.0006731720000000001,0.00130096104,0.00031301988
+1,All Population,6,Incidence,1,Global,2,Female,234,75+ years,393,Sexually transmitted infections excluding HIV,3,Rate,2009,0.00036206455,0.0005233343,0.0002188087
+1,All Population,6,Incidence,1,Global,1,Male,8,15-19 years,393,Sexually transmitted infections excluding HIV,3,Rate,2011,5735.0847764337595,8436.67087799839,3971.2302646100698
+1,All Population,6,Incidence,1,Global,2,Female,8,15-19 years,393,Sexually transmitted infections excluding HIV,3,Rate,2011,6708.479844638559,8647.82794837879,5216.04034892006
+1,All Population,6,Incidence,1,Global,1,Male,9,20-24 years,393,Sexually transmitted infections excluding HIV,3,Rate,2011,15831.14145979197,21686.381998614022,10729.546180657031
+1,All Population,6,Incidence,1,Global,2,Female,9,20-24 years,393,Sexually transmitted infections excluding HIV,3,Rate,2011,15237.86913814395,20065.34123851356,11848.14844140292
+1,All Population,6,Incidence,1,Global,1,Male,10,25-29 years,393,Sexually transmitted infections excluding HIV,3,Rate,2011,20489.53980990329,28053.84826007199,14136.160094181998
+1,All Population,6,Incidence,1,Global,2,Female,10,25-29 years,393,Sexually transmitted infections excluding HIV,3,Rate,2011,16226.62128838269,20889.025527717462,12253.93512581436
+1,All Population,6,Incidence,1,Global,1,Male,11,30-34 years,393,Sexually transmitted infections excluding HIV,3,Rate,2011,15355.76211367337,21580.43411414183,10554.03938354232
+1,All Population,6,Incidence,1,Global,2,Female,11,30-34 years,393,Sexually transmitted infections excluding HIV,3,Rate,2011,10039.47380982054,12854.69163659624,8063.2649373554295
+1,All Population,6,Incidence,1,Global,1,Male,12,35-39 years,393,Sexually transmitted infections excluding HIV,3,Rate,2011,7542.18402036829,10604.43227716241,5130.1265989062995
+1,All Population,6,Incidence,1,Global,2,Female,12,35-39 years,393,Sexually transmitted infections excluding HIV,3,Rate,2011,4634.29942098924,5605.81850369064,3863.1237835626
+1,All Population,6,Incidence,1,Global,1,Male,13,40-44 years,393,Sexually transmitted infections excluding HIV,3,Rate,2011,2905.44670917671,4282.72112302637,1890.35100142083
+1,All Population,6,Incidence,1,Global,2,Female,13,40-44 years,393,Sexually transmitted infections excluding HIV,3,Rate,2011,1695.7176147200398,1972.6470920498803,1451.9672732603499
+1,All Population,6,Incidence,1,Global,1,Male,39,0-14 years,393,Sexually transmitted infections excluding HIV,3,Rate,2011,242.74121700780998,337.55966080895,184.59157857982999
+1,All Population,6,Incidence,1,Global,2,Female,39,0-14 years,393,Sexually transmitted infections excluding HIV,3,Rate,2011,341.19469754203,420.59187246285995,269.83794856975
+1,All Population,6,Incidence,1,Global,1,Male,41,50-74 years,393,Sexually transmitted infections excluding HIV,3,Rate,2011,741.21065365865,1194.24290615702,445.45605277373
+1,All Population,6,Incidence,1,Global,2,Female,41,50-74 years,393,Sexually transmitted infections excluding HIV,3,Rate,2011,402.44591060005,476.06258823628997,341.88431155706
+1,All Population,6,Incidence,1,Global,1,Male,234,75+ years,393,Sexually transmitted infections excluding HIV,3,Rate,2011,0.00065320373,0.0012569355799999999,0.00030359764
+1,All Population,6,Incidence,1,Global,2,Female,234,75+ years,393,Sexually transmitted infections excluding HIV,3,Rate,2011,0.00035485522,0.00051481342,0.00021453502999999998
+1,All Population,6,Incidence,1,Global,1,Male,8,15-19 years,298,HIV/AIDS,3,Rate,2003,15.954274913950002,18.52850124414,13.56284043894
+1,All Population,6,Incidence,1,Global,2,Female,8,15-19 years,298,HIV/AIDS,3,Rate,2003,75.54158030677,81.16924895589,69.96522421475
+1,All Population,6,Incidence,1,Global,1,Male,9,20-24 years,298,HIV/AIDS,3,Rate,2003,44.46692806248,49.09876110844,39.92331441732
+1,All Population,6,Incidence,1,Global,2,Female,9,20-24 years,298,HIV/AIDS,3,Rate,2003,83.4843231442,89.755878416,77.53594294917
+1,All Population,6,Incidence,1,Global,1,Male,10,25-29 years,298,HIV/AIDS,3,Rate,2003,89.69506776783,97.04390874245,82.74945153438999
+1,All Population,6,Incidence,1,Global,2,Female,10,25-29 years,298,HIV/AIDS,3,Rate,2003,104.95308587857001,112.15666252609999,98.28206867891
+1,All Population,6,Incidence,1,Global,1,Male,11,30-34 years,298,HIV/AIDS,3,Rate,2003,83.3721780975,89.74098724668,77.20688513252999
+1,All Population,6,Incidence,1,Global,2,Female,11,30-34 years,298,HIV/AIDS,3,Rate,2003,60.24574245054001,65.72342647158,55.86827296058001
+1,All Population,6,Incidence,1,Global,1,Male,12,35-39 years,298,HIV/AIDS,3,Rate,2003,68.31819821084,75.84216948159,62.83691192542
+1,All Population,6,Incidence,1,Global,2,Female,12,35-39 years,298,HIV/AIDS,3,Rate,2003,49.95900908141,54.94991500395,46.31998830556
+1,All Population,6,Incidence,1,Global,1,Male,13,40-44 years,298,HIV/AIDS,3,Rate,2003,44.7656202319,50.33995077583,40.67119807673
+1,All Population,6,Incidence,1,Global,2,Female,13,40-44 years,298,HIV/AIDS,3,Rate,2003,44.323675474329995,48.23272199541,40.40931563529
+1,All Population,6,Incidence,1,Global,1,Male,39,0-14 years,298,HIV/AIDS,3,Rate,2003,32.85482029078,34.225746187510005,31.913408390040004
+1,All Population,6,Incidence,1,Global,2,Female,39,0-14 years,298,HIV/AIDS,3,Rate,2003,33.81204616057,35.20084532014,32.79039579564
+1,All Population,6,Incidence,1,Global,1,Male,41,50-74 years,298,HIV/AIDS,3,Rate,2003,22.20601541968,24.85049589721,19.66356111022
+1,All Population,6,Incidence,1,Global,2,Female,41,50-74 years,298,HIV/AIDS,3,Rate,2003,19.5748821927,21.15177347394,17.96507399611
+1,All Population,6,Incidence,1,Global,1,Male,234,75+ years,298,HIV/AIDS,3,Rate,2003,7.58407153794,9.225721633280001,6.2213199885599995
+1,All Population,6,Incidence,1,Global,2,Female,234,75+ years,298,HIV/AIDS,3,Rate,2003,2.2946541115700003,2.69398485932,1.92044520296
+1,All Population,6,Incidence,1,Global,1,Male,8,15-19 years,393,Sexually transmitted infections excluding HIV,3,Rate,2013,5750.324091272941,8438.10345583236,3980.90315654303
+1,All Population,6,Incidence,1,Global,2,Female,8,15-19 years,393,Sexually transmitted infections excluding HIV,3,Rate,2013,6711.2180901334805,8653.70831949188,5220.06500297468
+1,All Population,6,Incidence,1,Global,1,Male,9,20-24 years,393,Sexually transmitted infections excluding HIV,3,Rate,2013,15859.65787383333,21746.759840617648,10752.51399903546
+1,All Population,6,Incidence,1,Global,2,Female,9,20-24 years,393,Sexually transmitted infections excluding HIV,3,Rate,2013,15223.67734571798,20008.26156479458,11843.879847509881
+1,All Population,6,Incidence,1,Global,1,Male,10,25-29 years,393,Sexually transmitted infections excluding HIV,3,Rate,2013,20509.70061013097,28027.44199442428,14181.68268730891
+1,All Population,6,Incidence,1,Global,2,Female,10,25-29 years,393,Sexually transmitted infections excluding HIV,3,Rate,2013,16085.26622943546,20601.74804367122,12190.9350235417
+1,All Population,6,Incidence,1,Global,1,Male,11,30-34 years,393,Sexually transmitted infections excluding HIV,3,Rate,2013,15253.05278637728,21441.29672579248,10506.77996177659
+1,All Population,6,Incidence,1,Global,2,Female,11,30-34 years,393,Sexually transmitted infections excluding HIV,3,Rate,2013,9975.5563002837,12781.50053129037,7997.15515590064
+1,All Population,6,Incidence,1,Global,1,Male,12,35-39 years,393,Sexually transmitted infections excluding HIV,3,Rate,2013,7394.143601761791,10267.186644969339,5014.60463795798
+1,All Population,6,Incidence,1,Global,2,Female,12,35-39 years,393,Sexually transmitted infections excluding HIV,3,Rate,2013,4534.17239987093,5499.09870117061,3815.4712167211196
+1,All Population,6,Incidence,1,Global,1,Male,13,40-44 years,393,Sexually transmitted infections excluding HIV,3,Rate,2013,2838.66024602901,4176.624194560391,1867.21955889541
+1,All Population,6,Incidence,1,Global,2,Female,13,40-44 years,393,Sexually transmitted infections excluding HIV,3,Rate,2013,1648.60661971434,1904.74755268503,1415.44990921372
+1,All Population,6,Incidence,1,Global,1,Male,39,0-14 years,393,Sexually transmitted infections excluding HIV,3,Rate,2013,239.33503970382,333.83650485136997,181.54539619537
+1,All Population,6,Incidence,1,Global,2,Female,39,0-14 years,393,Sexually transmitted infections excluding HIV,3,Rate,2013,335.05918214577,413.32723095275,263.99747635265
+1,All Population,6,Incidence,1,Global,1,Male,41,50-74 years,393,Sexually transmitted infections excluding HIV,3,Rate,2013,735.40422677037,1187.7181432259401,443.48813041212003
+1,All Population,6,Incidence,1,Global,2,Female,41,50-74 years,393,Sexually transmitted infections excluding HIV,3,Rate,2013,399.56753594653003,473.48216790418,338.60858314934
+1,All Population,6,Incidence,1,Global,1,Male,234,75+ years,393,Sexually transmitted infections excluding HIV,3,Rate,2013,0.00064736607,0.0012516349900000001,0.00030388714999999997
+1,All Population,6,Incidence,1,Global,2,Female,234,75+ years,393,Sexually transmitted infections excluding HIV,3,Rate,2013,0.00035490471,0.00051517398,0.00021417372
+1,All Population,6,Incidence,1,Global,1,Male,8,15-19 years,393,Sexually transmitted infections excluding HIV,3,Rate,2015,5761.95954340434,8437.73307622059,3987.1393312310197
+1,All Population,6,Incidence,1,Global,2,Female,8,15-19 years,393,Sexually transmitted infections excluding HIV,3,Rate,2015,6727.06628540694,8683.0987628925,5231.25481887774
+1,All Population,6,Incidence,1,Global,1,Male,9,20-24 years,393,Sexually transmitted infections excluding HIV,3,Rate,2015,15876.65663913154,21747.1524066143,10772.13651717317
+1,All Population,6,Incidence,1,Global,2,Female,9,20-24 years,393,Sexually transmitted infections excluding HIV,3,Rate,2015,15265.64819108906,20053.44634609568,11864.24570291939
+1,All Population,6,Incidence,1,Global,1,Male,10,25-29 years,393,Sexually transmitted infections excluding HIV,3,Rate,2015,20512.16642586975,28061.432651213443,14212.312983171068
+1,All Population,6,Incidence,1,Global,2,Female,10,25-29 years,393,Sexually transmitted infections excluding HIV,3,Rate,2015,16000.64354925311,20422.17512070347,12134.896037375629
+1,All Population,6,Incidence,1,Global,1,Male,11,30-34 years,393,Sexually transmitted infections excluding HIV,3,Rate,2015,15213.778438569669,21377.11699028407,10482.02729447498
+1,All Population,6,Incidence,1,Global,2,Female,11,30-34 years,393,Sexually transmitted infections excluding HIV,3,Rate,2015,9932.888514263339,12762.729570690652,7937.4782857455
+1,All Population,6,Incidence,1,Global,1,Male,12,35-39 years,393,Sexually transmitted infections excluding HIV,3,Rate,2015,7283.61634821478,10060.96266550106,4969.4814648139
+1,All Population,6,Incidence,1,Global,2,Female,12,35-39 years,393,Sexually transmitted infections excluding HIV,3,Rate,2015,4458.57167377978,5429.46821622822,3772.71787028282
+1,All Population,6,Incidence,1,Global,1,Male,13,40-44 years,393,Sexually transmitted infections excluding HIV,3,Rate,2015,2809.56810460705,4159.343514340339,1851.5536143126
+1,All Population,6,Incidence,1,Global,2,Female,13,40-44 years,393,Sexually transmitted infections excluding HIV,3,Rate,2015,1622.5201087337,1874.9789345805598,1390.16676135538
+1,All Population,6,Incidence,1,Global,1,Male,39,0-14 years,393,Sexually transmitted infections excluding HIV,3,Rate,2015,238.28037184,333.24442699596,180.34726173795
+1,All Population,6,Incidence,1,Global,2,Female,39,0-14 years,393,Sexually transmitted infections excluding HIV,3,Rate,2015,333.2688420328,411.46717941491,261.31530566167
+1,All Population,6,Incidence,1,Global,1,Male,41,50-74 years,393,Sexually transmitted infections excluding HIV,3,Rate,2015,726.73519833798,1173.87321867763,439.72672989648
+1,All Population,6,Incidence,1,Global,2,Female,41,50-74 years,393,Sexually transmitted infections excluding HIV,3,Rate,2015,394.99303723212995,470.33789045216,334.73176293513
+1,All Population,6,Incidence,1,Global,1,Male,234,75+ years,393,Sexually transmitted infections excluding HIV,3,Rate,2015,0.00064182604,0.00124360769,0.00030147469
+1,All Population,6,Incidence,1,Global,2,Female,234,75+ years,393,Sexually transmitted infections excluding HIV,3,Rate,2015,0.00035448556,0.0005159126099999999,0.00021329306
+1,All Population,6,Incidence,1,Global,1,Male,8,15-19 years,298,HIV/AIDS,3,Rate,2007,14.55196782955,17.01274763597,12.23696605368
+1,All Population,6,Incidence,1,Global,2,Female,8,15-19 years,298,HIV/AIDS,3,Rate,2007,64.5101379002,69.0290881767,59.95703155456
+1,All Population,6,Incidence,1,Global,1,Male,9,20-24 years,298,HIV/AIDS,3,Rate,2007,38.88265160004,44.28187297958,34.189031740589996
+1,All Population,6,Incidence,1,Global,2,Female,9,20-24 years,298,HIV/AIDS,3,Rate,2007,70.35631007027,75.83162216128001,65.18062325517
+1,All Population,6,Incidence,1,Global,1,Male,10,25-29 years,298,HIV/AIDS,3,Rate,2007,82.84779137421,88.69074233488,76.9141644749
+1,All Population,6,Incidence,1,Global,2,Female,10,25-29 years,298,HIV/AIDS,3,Rate,2007,96.9535167053,102.54685151843,91.68962671620001
+1,All Population,6,Incidence,1,Global,1,Male,11,30-34 years,298,HIV/AIDS,3,Rate,2007,78.44386816584,84.41983382611001,72.99232239809
+1,All Population,6,Incidence,1,Global,2,Female,11,30-34 years,298,HIV/AIDS,3,Rate,2007,55.626789136010004,60.37678345225,51.7017734828
+1,All Population,6,Incidence,1,Global,1,Male,12,35-39 years,298,HIV/AIDS,3,Rate,2007,60.39305953209,66.51924741662,55.37305660421
+1,All Population,6,Incidence,1,Global,2,Female,12,35-39 years,298,HIV/AIDS,3,Rate,2007,43.29465336456,47.162474843700004,40.20267650573
+1,All Population,6,Incidence,1,Global,1,Male,13,40-44 years,298,HIV/AIDS,3,Rate,2007,36.81296235272,40.965411030320006,33.68527426365
+1,All Population,6,Incidence,1,Global,2,Female,13,40-44 years,298,HIV/AIDS,3,Rate,2007,35.70463604161,38.74986760185,32.85032610038
+1,All Population,6,Incidence,1,Global,1,Male,39,0-14 years,298,HIV/AIDS,3,Rate,2007,23.18155815512,24.324929276920003,22.44478327216
+1,All Population,6,Incidence,1,Global,2,Female,39,0-14 years,298,HIV/AIDS,3,Rate,2007,23.88284570499,25.14183548144,23.1202542409
+1,All Population,6,Incidence,1,Global,1,Male,41,50-74 years,298,HIV/AIDS,3,Rate,2007,19.10490466926,21.61297641448,16.980604744
+1,All Population,6,Incidence,1,Global,2,Female,41,50-74 years,298,HIV/AIDS,3,Rate,2007,16.87864997778,18.210291933620002,15.476054602249999
+1,All Population,6,Incidence,1,Global,1,Male,234,75+ years,298,HIV/AIDS,3,Rate,2007,8.19842629455,11.983225324200001,5.5146115481499995
+1,All Population,6,Incidence,1,Global,2,Female,234,75+ years,298,HIV/AIDS,3,Rate,2007,2.1990933096600003,2.77511873261,1.69089085439
+1,All Population,6,Incidence,1,Global,1,Male,8,15-19 years,298,HIV/AIDS,3,Rate,2005,14.97429881252,17.35394892978,12.708016056999998
+1,All Population,6,Incidence,1,Global,2,Female,8,15-19 years,298,HIV/AIDS,3,Rate,2005,68.24193965260001,73.22588975131,63.15443407459
+1,All Population,6,Incidence,1,Global,1,Male,9,20-24 years,298,HIV/AIDS,3,Rate,2005,41.331300214369996,46.365154507279996,36.75334892949
+1,All Population,6,Incidence,1,Global,2,Female,9,20-24 years,298,HIV/AIDS,3,Rate,2005,76.03479739144,81.46446934728,70.67344913493
+1,All Population,6,Incidence,1,Global,1,Male,10,25-29 years,298,HIV/AIDS,3,Rate,2005,85.35141666588001,92.03887972539,78.8571460566
+1,All Population,6,Incidence,1,Global,2,Female,10,25-29 years,298,HIV/AIDS,3,Rate,2005,99.64911152068,105.90280458980001,93.58492989482
+1,All Population,6,Incidence,1,Global,1,Male,11,30-34 years,298,HIV/AIDS,3,Rate,2005,79.51739874092,85.56360063068,73.59583500193
+1,All Population,6,Incidence,1,Global,2,Female,11,30-34 years,298,HIV/AIDS,3,Rate,2005,56.686009746500005,61.87997385545,52.439587568949996
+1,All Population,6,Incidence,1,Global,1,Male,12,35-39 years,298,HIV/AIDS,3,Rate,2005,63.07443145417,69.57367981427001,58.073749857900005
+1,All Population,6,Incidence,1,Global,2,Female,12,35-39 years,298,HIV/AIDS,3,Rate,2005,45.566173298209996,50.04171830144001,42.41501961997
+1,All Population,6,Incidence,1,Global,1,Male,13,40-44 years,298,HIV/AIDS,3,Rate,2005,39.8991730454,44.60544670758,36.32537395128
+1,All Population,6,Incidence,1,Global,2,Female,13,40-44 years,298,HIV/AIDS,3,Rate,2005,39.0641307095,42.26663546099,35.80141188508
+1,All Population,6,Incidence,1,Global,1,Male,39,0-14 years,298,HIV/AIDS,3,Rate,2005,27.47581502621,28.80586825703,26.57615933605
+1,All Population,6,Incidence,1,Global,2,Female,39,0-14 years,298,HIV/AIDS,3,Rate,2005,28.29813977626,29.690066836350002,27.35078987281
+1,All Population,6,Incidence,1,Global,1,Male,41,50-74 years,298,HIV/AIDS,3,Rate,2005,20.6731733262,23.191410519319998,18.18419684435
+1,All Population,6,Incidence,1,Global,2,Female,41,50-74 years,298,HIV/AIDS,3,Rate,2005,17.98611984106,19.33810619906,16.576613627729998
+1,All Population,6,Incidence,1,Global,1,Male,234,75+ years,298,HIV/AIDS,3,Rate,2005,8.0879818533,10.81080272635,6.07004412997
+1,All Population,6,Incidence,1,Global,2,Female,234,75+ years,298,HIV/AIDS,3,Rate,2005,2.29510313204,2.86622131433,1.8270326228
+1,All Population,6,Incidence,1,Global,1,Male,8,15-19 years,298,HIV/AIDS,3,Rate,2009,14.76034015926,17.64699326065,12.31060085856
+1,All Population,6,Incidence,1,Global,2,Female,8,15-19 years,298,HIV/AIDS,3,Rate,2009,63.133419433700006,67.73019956457,58.82524844317
+1,All Population,6,Incidence,1,Global,1,Male,9,20-24 years,298,HIV/AIDS,3,Rate,2009,38.07591378424,44.84468916828,32.80594564064
+1,All Population,6,Incidence,1,Global,2,Female,9,20-24 years,298,HIV/AIDS,3,Rate,2009,66.65057268548,72.13063994470001,61.4493077735
+1,All Population,6,Incidence,1,Global,1,Male,10,25-29 years,298,HIV/AIDS,3,Rate,2009,81.84500084820999,88.18689315844,76.07386172228
+1,All Population,6,Incidence,1,Global,2,Female,10,25-29 years,298,HIV/AIDS,3,Rate,2009,96.02707503433,101.23974813771001,90.9549349766
+1,All Population,6,Incidence,1,Global,1,Male,11,30-34 years,298,HIV/AIDS,3,Rate,2009,79.83986912022,86.13479749471,74.77573396263999
+1,All Population,6,Incidence,1,Global,2,Female,11,30-34 years,298,HIV/AIDS,3,Rate,2009,56.27265749577,61.17322000008,52.28367316835
+1,All Population,6,Incidence,1,Global,1,Male,12,35-39 years,298,HIV/AIDS,3,Rate,2009,60.33188764801,66.13878110707,55.569107592250006
+1,All Population,6,Incidence,1,Global,2,Female,12,35-39 years,298,HIV/AIDS,3,Rate,2009,42.730227649439996,46.26706407885,39.6591793141
+1,All Population,6,Incidence,1,Global,1,Male,13,40-44 years,298,HIV/AIDS,3,Rate,2009,35.45137556142,39.45552111046,32.53255803525
+1,All Population,6,Incidence,1,Global,2,Female,13,40-44 years,298,HIV/AIDS,3,Rate,2009,34.05074820558,36.94053926422,31.51895495326
+1,All Population,6,Incidence,1,Global,1,Male,39,0-14 years,298,HIV/AIDS,3,Rate,2009,20.03084402693,21.13179628687,19.33850975339
+1,All Population,6,Incidence,1,Global,2,Female,39,0-14 years,298,HIV/AIDS,3,Rate,2009,20.62665717233,21.8372987371,19.92166157978
+1,All Population,6,Incidence,1,Global,1,Male,41,50-74 years,298,HIV/AIDS,3,Rate,2009,17.94015621616,20.14945829607,16.09815697674
+1,All Population,6,Incidence,1,Global,2,Female,41,50-74 years,298,HIV/AIDS,3,Rate,2009,16.2494467358,17.5290147604,14.9584279172
+1,All Population,6,Incidence,1,Global,1,Male,234,75+ years,298,HIV/AIDS,3,Rate,2009,8.02827957369,12.01009839324,5.05318064063
+1,All Population,6,Incidence,1,Global,2,Female,234,75+ years,298,HIV/AIDS,3,Rate,2009,2.06722852654,2.65039919475,1.5958021175800001
+1,All Population,6,Incidence,1,Global,1,Male,8,15-19 years,298,HIV/AIDS,3,Rate,2011,14.843733515190001,17.73735385824,12.39716803291
+1,All Population,6,Incidence,1,Global,2,Female,8,15-19 years,298,HIV/AIDS,3,Rate,2011,62.036726265220004,66.81616679126999,57.603747833549996
+1,All Population,6,Incidence,1,Global,1,Male,9,20-24 years,298,HIV/AIDS,3,Rate,2011,37.44251833366,44.79808830154,32.118259991420004
+1,All Population,6,Incidence,1,Global,2,Female,9,20-24 years,298,HIV/AIDS,3,Rate,2011,63.94526617745999,69.54761393925,58.65969392631
+1,All Population,6,Incidence,1,Global,1,Male,10,25-29 years,298,HIV/AIDS,3,Rate,2011,80.08769672648,87.53690108859,72.97803396926
+1,All Population,6,Incidence,1,Global,2,Female,10,25-29 years,298,HIV/AIDS,3,Rate,2011,94.57022204678,99.17965206209999,89.42609555919
+1,All Population,6,Incidence,1,Global,1,Male,11,30-34 years,298,HIV/AIDS,3,Rate,2011,81.15160873915,87.75814292646,75.01231076162
+1,All Population,6,Incidence,1,Global,2,Female,11,30-34 years,298,HIV/AIDS,3,Rate,2011,57.01973429202,62.288039103930004,52.96685984465
+1,All Population,6,Incidence,1,Global,1,Male,12,35-39 years,298,HIV/AIDS,3,Rate,2011,61.5997210672,67.41111909810999,56.698765927960004
+1,All Population,6,Incidence,1,Global,2,Female,12,35-39 years,298,HIV/AIDS,3,Rate,2011,43.0726680033,47.128010624190004,39.98606548234
+1,All Population,6,Incidence,1,Global,1,Male,13,40-44 years,298,HIV/AIDS,3,Rate,2011,34.80758368624,38.77047547096,31.597207114010004
+1,All Population,6,Incidence,1,Global,2,Female,13,40-44 years,298,HIV/AIDS,3,Rate,2011,33.16091514798,36.02728735941,30.62661848857
+1,All Population,6,Incidence,1,Global,1,Male,39,0-14 years,298,HIV/AIDS,3,Rate,2011,17.369203226350002,18.404416106350002,16.69548352768
+1,All Population,6,Incidence,1,Global,2,Female,39,0-14 years,298,HIV/AIDS,3,Rate,2011,17.85297968278,19.002457589800002,17.115986133
+1,All Population,6,Incidence,1,Global,1,Male,41,50-74 years,298,HIV/AIDS,3,Rate,2011,16.96681992256,19.0062836745,15.22932172117
+1,All Population,6,Incidence,1,Global,2,Female,41,50-74 years,298,HIV/AIDS,3,Rate,2011,15.69306851052,16.97017507127,14.463918578449999
+1,All Population,6,Incidence,1,Global,1,Male,234,75+ years,298,HIV/AIDS,3,Rate,2011,6.9958923319,9.80798230233,4.63665290357
+1,All Population,6,Incidence,1,Global,2,Female,234,75+ years,298,HIV/AIDS,3,Rate,2011,1.7697018743100001,2.1936951268500002,1.40276892304
+1,All Population,6,Incidence,1,Global,1,Male,8,15-19 years,393,Sexually transmitted infections excluding HIV,3,Rate,2017,5734.46976986144,8367.098028840981,3978.5928795249197
+1,All Population,6,Incidence,1,Global,2,Female,8,15-19 years,393,Sexually transmitted infections excluding HIV,3,Rate,2017,6721.286263829809,8710.48478138402,5236.40291633221
+1,All Population,6,Incidence,1,Global,1,Male,9,20-24 years,393,Sexually transmitted infections excluding HIV,3,Rate,2017,15787.219878094642,21611.92174889924,10743.7525772071
+1,All Population,6,Incidence,1,Global,2,Female,9,20-24 years,393,Sexually transmitted infections excluding HIV,3,Rate,2017,15288.48149697226,20151.65873288616,11844.56320327783
+1,All Population,6,Incidence,1,Global,1,Male,10,25-29 years,393,Sexually transmitted infections excluding HIV,3,Rate,2017,20450.02831697367,27947.75402928198,14153.335383054291
+1,All Population,6,Incidence,1,Global,2,Female,10,25-29 years,393,Sexually transmitted infections excluding HIV,3,Rate,2017,16091.13768144495,20702.06100536997,12143.1442042949
+1,All Population,6,Incidence,1,Global,1,Male,11,30-34 years,393,Sexually transmitted infections excluding HIV,3,Rate,2017,15210.345718175891,21496.07748021923,10507.02976394054
+1,All Population,6,Incidence,1,Global,2,Female,11,30-34 years,393,Sexually transmitted infections excluding HIV,3,Rate,2017,9952.69020694756,12797.23916210813,7941.375490039911
+1,All Population,6,Incidence,1,Global,1,Male,12,35-39 years,393,Sexually transmitted infections excluding HIV,3,Rate,2017,7197.262398611299,9974.23243036315,4910.20261108457
+1,All Population,6,Incidence,1,Global,2,Female,12,35-39 years,393,Sexually transmitted infections excluding HIV,3,Rate,2017,4399.6897938332395,5395.983990186521,3733.1591450609
+1,All Population,6,Incidence,1,Global,1,Male,13,40-44 years,393,Sexually transmitted infections excluding HIV,3,Rate,2017,2830.47141900747,4199.44816759131,1842.68198706234
+1,All Population,6,Incidence,1,Global,2,Female,13,40-44 years,393,Sexually transmitted infections excluding HIV,3,Rate,2017,1626.50995289544,1887.0119184514301,1398.36299274575
+1,All Population,6,Incidence,1,Global,1,Male,39,0-14 years,393,Sexually transmitted infections excluding HIV,3,Rate,2017,241.85633678064,337.77790391308,183.32504685898
+1,All Population,6,Incidence,1,Global,2,Female,39,0-14 years,393,Sexually transmitted infections excluding HIV,3,Rate,2017,338.38007986223,417.12060707512,265.01425211776996
+1,All Population,6,Incidence,1,Global,1,Male,41,50-74 years,393,Sexually transmitted infections excluding HIV,3,Rate,2017,715.70355306601,1151.3472404917,433.06995773540996
+1,All Population,6,Incidence,1,Global,2,Female,41,50-74 years,393,Sexually transmitted infections excluding HIV,3,Rate,2017,388.99627866492,462.90555471025004,328.08137392947003
+1,All Population,6,Incidence,1,Global,1,Male,234,75+ years,393,Sexually transmitted infections excluding HIV,3,Rate,2017,0.00062417984,0.00121029654,0.00029216419000000003
+1,All Population,6,Incidence,1,Global,2,Female,234,75+ years,393,Sexually transmitted infections excluding HIV,3,Rate,2017,0.00034618599,0.00049593677,0.00020822149
+1,All Population,6,Incidence,1,Global,1,Male,8,15-19 years,393,Sexually transmitted infections excluding HIV,3,Rate,2019,5677.90434742298,8265.224983874241,3947.79871943435
+1,All Population,6,Incidence,1,Global,2,Female,8,15-19 years,393,Sexually transmitted infections excluding HIV,3,Rate,2019,6666.74834206164,8682.64503376181,5205.05559375408
+1,All Population,6,Incidence,1,Global,1,Male,9,20-24 years,393,Sexually transmitted infections excluding HIV,3,Rate,2019,15628.51390725268,21403.43452779475,10666.08144890536
+1,All Population,6,Incidence,1,Global,2,Female,9,20-24 years,393,Sexually transmitted infections excluding HIV,3,Rate,2019,15245.945045759241,20108.97652346337,11771.22332243222
+1,All Population,6,Incidence,1,Global,1,Male,10,25-29 years,393,Sexually transmitted infections excluding HIV,3,Rate,2019,20336.35081835913,27770.78857780652,14061.2365286178
+1,All Population,6,Incidence,1,Global,2,Female,10,25-29 years,393,Sexually transmitted infections excluding HIV,3,Rate,2019,16240.82359121872,21068.8616484157,12233.70312793595
+1,All Population,6,Incidence,1,Global,1,Male,11,30-34 years,393,Sexually transmitted infections excluding HIV,3,Rate,2019,15193.36160456055,21654.7415560288,10523.40856555976
+1,All Population,6,Incidence,1,Global,2,Female,11,30-34 years,393,Sexually transmitted infections excluding HIV,3,Rate,2019,10001.98792513125,12901.52319891231,7954.30477898187
+1,All Population,6,Incidence,1,Global,1,Male,12,35-39 years,393,Sexually transmitted infections excluding HIV,3,Rate,2019,7118.331512778781,9899.99093750697,4851.560476320909
+1,All Population,6,Incidence,1,Global,2,Female,12,35-39 years,393,Sexually transmitted infections excluding HIV,3,Rate,2019,4351.45450781194,5389.346728274671,3674.3092021702796
+1,All Population,6,Incidence,1,Global,1,Male,13,40-44 years,393,Sexually transmitted infections excluding HIV,3,Rate,2019,2847.30358938242,4247.75357852145,1825.38215656821
+1,All Population,6,Incidence,1,Global,2,Female,13,40-44 years,393,Sexually transmitted infections excluding HIV,3,Rate,2019,1632.5521573005499,1897.1913517299,1391.31547368113
+1,All Population,6,Incidence,1,Global,1,Male,39,0-14 years,393,Sexually transmitted infections excluding HIV,3,Rate,2019,248.34937549027998,345.84341165405,188.35639222965
+1,All Population,6,Incidence,1,Global,2,Female,39,0-14 years,393,Sexually transmitted infections excluding HIV,3,Rate,2019,346.31546399541,427.11202121813,271.73443539601
+1,All Population,6,Incidence,1,Global,1,Male,41,50-74 years,393,Sexually transmitted infections excluding HIV,3,Rate,2019,703.58549802341,1128.22121834825,424.80171030272004
+1,All Population,6,Incidence,1,Global,2,Female,41,50-74 years,393,Sexually transmitted infections excluding HIV,3,Rate,2019,382.09924396139,454.6673051056,321.63406371984
+1,All Population,6,Incidence,1,Global,1,Male,234,75+ years,393,Sexually transmitted infections excluding HIV,3,Rate,2019,0.0005991097,0.00114831055,0.0002781537
+1,All Population,6,Incidence,1,Global,2,Female,234,75+ years,393,Sexually transmitted infections excluding HIV,3,Rate,2019,0.00033318804,0.00047252001,0.00020088903999999997
+1,All Population,6,Incidence,1,Global,1,Male,8,15-19 years,393,Sexually transmitted infections excluding HIV,3,Rate,2021,5674.07871414714,8245.59586287398,3972.9583377696
+1,All Population,6,Incidence,1,Global,2,Female,8,15-19 years,393,Sexually transmitted infections excluding HIV,3,Rate,2021,6680.982180317491,8689.2191625074,5217.94903548218
+1,All Population,6,Incidence,1,Global,1,Male,9,20-24 years,393,Sexually transmitted infections excluding HIV,3,Rate,2021,15611.89848476845,21365.36529696043,10684.16095622765
+1,All Population,6,Incidence,1,Global,2,Female,9,20-24 years,393,Sexually transmitted infections excluding HIV,3,Rate,2021,15303.81105330773,20190.748570086333,11778.067857943519
+1,All Population,6,Incidence,1,Global,1,Male,10,25-29 years,393,Sexually transmitted infections excluding HIV,3,Rate,2021,20331.24786751191,27713.53651505007,14068.59462895858
+1,All Population,6,Incidence,1,Global,2,Female,10,25-29 years,393,Sexually transmitted infections excluding HIV,3,Rate,2021,16388.75215177266,21249.42250422034,12412.173850492369
+1,All Population,6,Incidence,1,Global,1,Male,11,30-34 years,393,Sexually transmitted infections excluding HIV,3,Rate,2021,15215.721404181959,21707.90674628798,10551.93112870648
+1,All Population,6,Incidence,1,Global,2,Female,11,30-34 years,393,Sexually transmitted infections excluding HIV,3,Rate,2021,10121.3002224292,13075.74217374187,8053.391962676899
+1,All Population,6,Incidence,1,Global,1,Male,12,35-39 years,393,Sexually transmitted infections excluding HIV,3,Rate,2021,7156.30292836776,9965.87754758474,4867.2788501655195
+1,All Population,6,Incidence,1,Global,2,Female,12,35-39 years,393,Sexually transmitted infections excluding HIV,3,Rate,2021,4431.845748360181,5478.08765182556,3743.39288268439
+1,All Population,6,Incidence,1,Global,1,Male,13,40-44 years,393,Sexually transmitted infections excluding HIV,3,Rate,2021,2878.56226102431,4303.49686132666,1836.63317621295
+1,All Population,6,Incidence,1,Global,2,Female,13,40-44 years,393,Sexually transmitted infections excluding HIV,3,Rate,2021,1661.1118407887,1933.75068812472,1426.14943828442
+1,All Population,6,Incidence,1,Global,1,Male,39,0-14 years,393,Sexually transmitted infections excluding HIV,3,Rate,2021,256.70331436084,357.02537715622003,193.83559619471998
+1,All Population,6,Incidence,1,Global,2,Female,39,0-14 years,393,Sexually transmitted infections excluding HIV,3,Rate,2021,356.65122030994996,440.26051980049004,280.64143247218
+1,All Population,6,Incidence,1,Global,1,Male,41,50-74 years,393,Sexually transmitted infections excluding HIV,3,Rate,2021,697.72602404046,1115.8470063327102,422.25838700111
+1,All Population,6,Incidence,1,Global,2,Female,41,50-74 years,393,Sexually transmitted infections excluding HIV,3,Rate,2021,377.54579079255,449.44807541814,317.72012895961
+1,All Population,6,Incidence,1,Global,1,Male,234,75+ years,393,Sexually transmitted infections excluding HIV,3,Rate,2021,0.0005829163599999999,0.00113284953,0.00027140811
+1,All Population,6,Incidence,1,Global,2,Female,234,75+ years,393,Sexually transmitted infections excluding HIV,3,Rate,2021,0.00032525215,0.00046597943,0.00019711373999999998
+1,All Population,6,Incidence,1,Global,1,Male,8,15-19 years,298,HIV/AIDS,3,Rate,2015,14.464256189719999,17.73893982768,11.882080116680001
+1,All Population,6,Incidence,1,Global,2,Female,8,15-19 years,298,HIV/AIDS,3,Rate,2015,55.98305668004,61.81914831739,50.88408973904001
+1,All Population,6,Incidence,1,Global,1,Male,9,20-24 years,298,HIV/AIDS,3,Rate,2015,35.65585532576,43.140481893650005,30.587090229530002
+1,All Population,6,Incidence,1,Global,2,Female,9,20-24 years,298,HIV/AIDS,3,Rate,2015,58.800067913259994,64.81624760919,53.57531245637
+1,All Population,6,Incidence,1,Global,1,Male,10,25-29 years,298,HIV/AIDS,3,Rate,2015,73.42967218665,82.94554726353999,65.73679908476
+1,All Population,6,Incidence,1,Global,2,Female,10,25-29 years,298,HIV/AIDS,3,Rate,2015,87.93559973576001,93.97968128025,82.04836678630001
+1,All Population,6,Incidence,1,Global,1,Male,11,30-34 years,298,HIV/AIDS,3,Rate,2015,81.87082725759001,88.45835306498999,75.44376913659
+1,All Population,6,Incidence,1,Global,2,Female,11,30-34 years,298,HIV/AIDS,3,Rate,2015,56.796513765309996,61.782886748989995,52.606996755720004
+1,All Population,6,Incidence,1,Global,1,Male,12,35-39 years,298,HIV/AIDS,3,Rate,2015,65.28506680695,73.29826187816,57.96491530391
+1,All Population,6,Incidence,1,Global,2,Female,12,35-39 years,298,HIV/AIDS,3,Rate,2015,43.32336520306,48.51940522919,39.94198828934
+1,All Population,6,Incidence,1,Global,1,Male,13,40-44 years,298,HIV/AIDS,3,Rate,2015,35.11891496263,39.44774789633,31.24895877627
+1,All Population,6,Incidence,1,Global,2,Female,13,40-44 years,298,HIV/AIDS,3,Rate,2015,31.929877797270002,34.71435146602,29.10753131011
+1,All Population,6,Incidence,1,Global,1,Male,39,0-14 years,298,HIV/AIDS,3,Rate,2015,13.92164067038,14.828319433,13.12055080508
+1,All Population,6,Incidence,1,Global,2,Female,39,0-14 years,298,HIV/AIDS,3,Rate,2015,14.26975599901,15.07942275414,13.484889814899999
+1,All Population,6,Incidence,1,Global,1,Male,41,50-74 years,298,HIV/AIDS,3,Rate,2015,15.25209825075,17.74253934978,12.97104336179
+1,All Population,6,Incidence,1,Global,2,Female,41,50-74 years,298,HIV/AIDS,3,Rate,2015,14.09402093517,15.53320246633,12.83923023784
+1,All Population,6,Incidence,1,Global,1,Male,234,75+ years,298,HIV/AIDS,3,Rate,2015,4.36741029971,5.336401184500001,3.29254651169
+1,All Population,6,Incidence,1,Global,2,Female,234,75+ years,298,HIV/AIDS,3,Rate,2015,1.2771724758,1.5265245745,1.05464430205
+1,All Population,6,Incidence,1,Global,1,Male,8,15-19 years,298,HIV/AIDS,3,Rate,2013,14.7786048828,17.62934606493,12.2142392481
+1,All Population,6,Incidence,1,Global,2,Female,8,15-19 years,298,HIV/AIDS,3,Rate,2013,59.497031436289994,64.58881726922999,54.94828655431
+1,All Population,6,Incidence,1,Global,1,Male,9,20-24 years,298,HIV/AIDS,3,Rate,2013,36.65327756531,44.56363392468,31.42256312635
+1,All Population,6,Incidence,1,Global,2,Female,9,20-24 years,298,HIV/AIDS,3,Rate,2013,61.424059332469994,66.98273433372,56.201807362699995
+1,All Population,6,Incidence,1,Global,1,Male,10,25-29 years,298,HIV/AIDS,3,Rate,2013,76.50230663062999,84.12985616204,69.40899363202
+1,All Population,6,Incidence,1,Global,2,Female,10,25-29 years,298,HIV/AIDS,3,Rate,2013,91.17640196594,96.23553029022,85.9102310087
+1,All Population,6,Incidence,1,Global,1,Male,11,30-34 years,298,HIV/AIDS,3,Rate,2013,81.92992369414999,88.39589908127,75.04194757246
+1,All Population,6,Incidence,1,Global,2,Female,11,30-34 years,298,HIV/AIDS,3,Rate,2013,57.44038564871,62.710487130779995,53.02779444757
+1,All Population,6,Incidence,1,Global,1,Male,12,35-39 years,298,HIV/AIDS,3,Rate,2013,63.44728056887,70.04535871594,57.534951925360005
+1,All Population,6,Incidence,1,Global,2,Female,12,35-39 years,298,HIV/AIDS,3,Rate,2013,43.452774632069996,48.2100315207,40.234393991889995
+1,All Population,6,Incidence,1,Global,1,Male,13,40-44 years,298,HIV/AIDS,3,Rate,2013,34.70533141048,38.90779488746,31.311508346300002
+1,All Population,6,Incidence,1,Global,2,Female,13,40-44 years,298,HIV/AIDS,3,Rate,2013,32.45548737568,35.402952622549996,29.679330595489997
+1,All Population,6,Incidence,1,Global,1,Male,39,0-14 years,298,HIV/AIDS,3,Rate,2013,14.845455798489999,15.757211346300002,14.123934534690001
+1,All Population,6,Incidence,1,Global,2,Female,39,0-14 years,298,HIV/AIDS,3,Rate,2013,15.229185932799998,16.1469320452,14.501303678690002
+1,All Population,6,Incidence,1,Global,1,Male,41,50-74 years,298,HIV/AIDS,3,Rate,2013,15.940022856059999,18.066105982819998,13.913549152369999
+1,All Population,6,Incidence,1,Global,2,Female,41,50-74 years,298,HIV/AIDS,3,Rate,2013,14.959761929539999,16.40010252257,13.75647963194
+1,All Population,6,Incidence,1,Global,1,Male,234,75+ years,298,HIV/AIDS,3,Rate,2013,5.217419913970001,6.503111533799999,3.90089983889
+1,All Population,6,Incidence,1,Global,2,Female,234,75+ years,298,HIV/AIDS,3,Rate,2013,1.46253134583,1.74533927991,1.19210788388
+1,All Population,6,Incidence,1,Global,1,Male,8,15-19 years,298,HIV/AIDS,3,Rate,2017,14.026119185959999,17.58572809683,11.23602130431
+1,All Population,6,Incidence,1,Global,2,Female,8,15-19 years,298,HIV/AIDS,3,Rate,2017,51.780892471710004,59.13948897435999,46.41027552028
+1,All Population,6,Incidence,1,Global,1,Male,9,20-24 years,298,HIV/AIDS,3,Rate,2017,34.26054249174,41.46547692568,28.96469225619
+1,All Population,6,Incidence,1,Global,2,Female,9,20-24 years,298,HIV/AIDS,3,Rate,2017,55.08582512377,61.29982211240999,49.87683226935
+1,All Population,6,Incidence,1,Global,1,Male,10,25-29 years,298,HIV/AIDS,3,Rate,2017,70.28868453535,81.62216918213,61.54327136768
+1,All Population,6,Incidence,1,Global,2,Female,10,25-29 years,298,HIV/AIDS,3,Rate,2017,84.59123813682,92.70488439637,78.08818847649
+1,All Population,6,Incidence,1,Global,1,Male,11,30-34 years,298,HIV/AIDS,3,Rate,2017,77.77176052056,84.77266197593,70.96488813011
+1,All Population,6,Incidence,1,Global,2,Female,11,30-34 years,298,HIV/AIDS,3,Rate,2017,53.50884272695,58.745086863720005,49.29051974572
+1,All Population,6,Incidence,1,Global,1,Male,12,35-39 years,298,HIV/AIDS,3,Rate,2017,63.61941586847,73.52137828328,55.62519354803
+1,All Population,6,Incidence,1,Global,2,Female,12,35-39 years,298,HIV/AIDS,3,Rate,2017,41.63914596727,47.0833272155,38.119604244289995
+1,All Population,6,Incidence,1,Global,1,Male,13,40-44 years,298,HIV/AIDS,3,Rate,2017,34.3531190602,38.24912630282,30.41737678872
+1,All Population,6,Incidence,1,Global,2,Female,13,40-44 years,298,HIV/AIDS,3,Rate,2017,30.80742730433,33.55433332335,28.15808869567
+1,All Population,6,Incidence,1,Global,1,Male,39,0-14 years,298,HIV/AIDS,3,Rate,2017,12.66195746994,13.5513051882,11.831404033330001
+1,All Population,6,Incidence,1,Global,2,Female,39,0-14 years,298,HIV/AIDS,3,Rate,2017,12.961555529980002,13.884048013040001,12.07314635656
+1,All Population,6,Incidence,1,Global,1,Male,41,50-74 years,298,HIV/AIDS,3,Rate,2017,14.38110544246,16.96210257861,11.984194623
+1,All Population,6,Incidence,1,Global,2,Female,41,50-74 years,298,HIV/AIDS,3,Rate,2017,12.890144957130001,14.279947807900001,11.67104520173
+1,All Population,6,Incidence,1,Global,1,Male,234,75+ years,298,HIV/AIDS,3,Rate,2017,3.8743218740699996,4.84569604713,2.9948969773
+1,All Population,6,Incidence,1,Global,2,Female,234,75+ years,298,HIV/AIDS,3,Rate,2017,1.12041066378,1.34772965729,0.91219804587
+1,All Population,6,Incidence,1,Global,1,Male,8,15-19 years,298,HIV/AIDS,3,Rate,2019,13.581661484709999,17.40358074852,10.71875978513
+1,All Population,6,Incidence,1,Global,2,Female,8,15-19 years,298,HIV/AIDS,3,Rate,2019,47.593878390280004,56.05790428161,41.341842840700004
+1,All Population,6,Incidence,1,Global,1,Male,9,20-24 years,298,HIV/AIDS,3,Rate,2019,32.67303977326,40.02848743028,27.12061424057
+1,All Population,6,Incidence,1,Global,2,Female,9,20-24 years,298,HIV/AIDS,3,Rate,2019,51.00549321611,57.26814308693,45.66268286
+1,All Population,6,Incidence,1,Global,1,Male,10,25-29 years,298,HIV/AIDS,3,Rate,2019,66.86505194697,78.6100095121,57.67340264878
+1,All Population,6,Incidence,1,Global,2,Female,10,25-29 years,298,HIV/AIDS,3,Rate,2019,81.70825899706,91.2181241823,74.36249389805
+1,All Population,6,Incidence,1,Global,1,Male,11,30-34 years,298,HIV/AIDS,3,Rate,2019,72.04347196005,79.33740380783,65.28651119663
+1,All Population,6,Incidence,1,Global,2,Female,11,30-34 years,298,HIV/AIDS,3,Rate,2019,49.99287086649001,55.11511368091,45.79937185876
+1,All Population,6,Incidence,1,Global,1,Male,12,35-39 years,298,HIV/AIDS,3,Rate,2019,60.54656618815,71.32384347702,52.23848743846
+1,All Population,6,Incidence,1,Global,2,Female,12,35-39 years,298,HIV/AIDS,3,Rate,2019,39.55168570925,44.68932644998,35.966059167670004
+1,All Population,6,Incidence,1,Global,1,Male,13,40-44 years,298,HIV/AIDS,3,Rate,2019,33.31066617053,37.52343074415,29.342997997350004
+1,All Population,6,Incidence,1,Global,2,Female,13,40-44 years,298,HIV/AIDS,3,Rate,2019,29.72672594946,32.73314682005,26.932956718800003
+1,All Population,6,Incidence,1,Global,1,Male,39,0-14 years,298,HIV/AIDS,3,Rate,2019,11.75653616137,12.77799749429,10.99592219265
+1,All Population,6,Incidence,1,Global,2,Female,39,0-14 years,298,HIV/AIDS,3,Rate,2019,11.98694005019,13.07412457525,11.20130110289
+1,All Population,6,Incidence,1,Global,1,Male,41,50-74 years,298,HIV/AIDS,3,Rate,2019,13.24368618639,15.676367904309998,11.05553116157
+1,All Population,6,Incidence,1,Global,2,Female,41,50-74 years,298,HIV/AIDS,3,Rate,2019,11.68565697677,13.00043769866,10.521959022059999
+1,All Population,6,Incidence,1,Global,1,Male,234,75+ years,298,HIV/AIDS,3,Rate,2019,3.27188680475,4.05051423692,2.60046428345
+1,All Population,6,Incidence,1,Global,2,Female,234,75+ years,298,HIV/AIDS,3,Rate,2019,0.95985884872,1.14739209914,0.78783267159
+1,All Population,6,Incidence,1,Global,1,Male,8,15-19 years,393,Sexually transmitted infections excluding HIV,3,Rate,2023,5665.528062107051,8196.70342653686,3976.17523598886
+1,All Population,6,Incidence,1,Global,2,Female,8,15-19 years,393,Sexually transmitted infections excluding HIV,3,Rate,2023,6545.701077215541,8533.851159187709,5156.390003943459
+1,All Population,6,Incidence,1,Global,1,Male,9,20-24 years,393,Sexually transmitted infections excluding HIV,3,Rate,2023,15569.33686876346,21190.433946270678,10686.34573115357
+1,All Population,6,Incidence,1,Global,2,Female,9,20-24 years,393,Sexually transmitted infections excluding HIV,3,Rate,2023,15053.49651376246,19851.50735604045,11668.5949546465
+1,All Population,6,Incidence,1,Global,1,Male,10,25-29 years,393,Sexually transmitted infections excluding HIV,3,Rate,2023,20217.3135044228,27516.886934256003,13945.924691154978
+1,All Population,6,Incidence,1,Global,2,Female,10,25-29 years,393,Sexually transmitted infections excluding HIV,3,Rate,2023,16284.46082224368,21076.27122505827,12351.19707973663
+1,All Population,6,Incidence,1,Global,1,Male,11,30-34 years,393,Sexually transmitted infections excluding HIV,3,Rate,2023,15175.50994660532,21482.96991858345,10489.756096410061
+1,All Population,6,Incidence,1,Global,2,Female,11,30-34 years,393,Sexually transmitted infections excluding HIV,3,Rate,2023,10209.06084068733,13207.886283190152,8110.575853998051
+1,All Population,6,Incidence,1,Global,1,Male,12,35-39 years,393,Sexually transmitted infections excluding HIV,3,Rate,2023,7311.85695894964,10234.84635573055,4933.67933916747
+1,All Population,6,Incidence,1,Global,2,Female,12,35-39 years,393,Sexually transmitted infections excluding HIV,3,Rate,2023,4578.51188091797,5610.4437649467,3863.1554286149
+1,All Population,6,Incidence,1,Global,1,Male,13,40-44 years,393,Sexually transmitted infections excluding HIV,3,Rate,2023,2924.86962703607,4383.55105955079,1871.93110190497
+1,All Population,6,Incidence,1,Global,2,Female,13,40-44 years,393,Sexually transmitted infections excluding HIV,3,Rate,2023,1711.15491303067,1987.18491510958,1463.59762090512
+1,All Population,6,Incidence,1,Global,1,Male,39,0-14 years,393,Sexually transmitted infections excluding HIV,3,Rate,2023,260.20677040775,361.88469013953,196.75749485501
+1,All Population,6,Incidence,1,Global,2,Female,39,0-14 years,393,Sexually transmitted infections excluding HIV,3,Rate,2023,362.09596755829,445.16819468785997,284.37134174045
+1,All Population,6,Incidence,1,Global,1,Male,41,50-74 years,393,Sexually transmitted infections excluding HIV,3,Rate,2023,689.90681485017,1120.16547788173,415.66268949047
+1,All Population,6,Incidence,1,Global,2,Female,41,50-74 years,393,Sexually transmitted infections excluding HIV,3,Rate,2023,372.99791997313,449.63926240925,314.05246668940003
+1,All Population,6,Incidence,1,Global,1,Male,234,75+ years,393,Sexually transmitted infections excluding HIV,3,Rate,2023,0.00058905466,0.00111592435,0.00027480954999999996
+1,All Population,6,Incidence,1,Global,2,Female,234,75+ years,393,Sexually transmitted infections excluding HIV,3,Rate,2023,0.00033062416,0.00047477318000000004,0.00020015354
+1,All Population,6,Incidence,1,Global,1,Male,8,15-19 years,298,HIV/AIDS,3,Rate,2021,13.24992454036,17.41903337294,10.01648282541
+1,All Population,6,Incidence,1,Global,2,Female,8,15-19 years,298,HIV/AIDS,3,Rate,2021,42.98430869154,52.141011759570006,36.7588120464
+1,All Population,6,Incidence,1,Global,1,Male,9,20-24 years,298,HIV/AIDS,3,Rate,2021,30.66033831152,38.20101379068,24.939951334299998
+1,All Population,6,Incidence,1,Global,2,Female,9,20-24 years,298,HIV/AIDS,3,Rate,2021,46.85565282027,53.49105010697001,41.225962484419995
+1,All Population,6,Incidence,1,Global,1,Male,10,25-29 years,298,HIV/AIDS,3,Rate,2021,63.93411273408999,77.82647971455,53.83080980191
+1,All Population,6,Incidence,1,Global,2,Female,10,25-29 years,298,HIV/AIDS,3,Rate,2021,78.6890438148,89.03875418294,69.80058006653
+1,All Population,6,Incidence,1,Global,1,Male,11,30-34 years,298,HIV/AIDS,3,Rate,2021,68.88785358428,77.34302361907,61.44117776939999
+1,All Population,6,Incidence,1,Global,2,Female,11,30-34 years,298,HIV/AIDS,3,Rate,2021,47.57146620598,53.49665151498,42.77533083499
+1,All Population,6,Incidence,1,Global,1,Male,12,35-39 years,298,HIV/AIDS,3,Rate,2021,58.19924186707,70.51422532089,48.80464720125
+1,All Population,6,Incidence,1,Global,2,Female,12,35-39 years,298,HIV/AIDS,3,Rate,2021,37.306237227560004,41.9235715843,33.33732845477
+1,All Population,6,Incidence,1,Global,1,Male,13,40-44 years,298,HIV/AIDS,3,Rate,2021,32.03167172605,36.33514459493,28.11947319301
+1,All Population,6,Incidence,1,Global,2,Female,13,40-44 years,298,HIV/AIDS,3,Rate,2021,28.368375411149998,31.724977908510002,25.32661762403
+1,All Population,6,Incidence,1,Global,1,Male,39,0-14 years,298,HIV/AIDS,3,Rate,2021,11.3098168899,12.172638124459999,10.63522894221
+1,All Population,6,Incidence,1,Global,2,Female,39,0-14 years,298,HIV/AIDS,3,Rate,2021,11.54291803804,12.435425082719998,10.865064158
+1,All Population,6,Incidence,1,Global,1,Male,41,50-74 years,298,HIV/AIDS,3,Rate,2021,12.36269979661,14.42742168819,10.33060675754
+1,All Population,6,Incidence,1,Global,2,Female,41,50-74 years,298,HIV/AIDS,3,Rate,2021,10.72393693604,12.01805988547,9.5962452426
+1,All Population,6,Incidence,1,Global,1,Male,234,75+ years,298,HIV/AIDS,3,Rate,2021,2.75212661206,3.35971059947,2.2083108883700002
+1,All Population,6,Incidence,1,Global,2,Female,234,75+ years,298,HIV/AIDS,3,Rate,2021,0.85566649826,1.00830029461,0.70439743932
+1,All Population,6,Incidence,1,Global,1,Male,8,15-19 years,298,HIV/AIDS,3,Rate,2023,12.81968895765,16.82075978775,9.56245740011
+1,All Population,6,Incidence,1,Global,2,Female,8,15-19 years,298,HIV/AIDS,3,Rate,2023,39.06224521109,48.605569930070004,33.056724839990004
+1,All Population,6,Incidence,1,Global,1,Male,9,20-24 years,298,HIV/AIDS,3,Rate,2023,29.533991393189996,37.34991660129,23.77000190324
+1,All Population,6,Incidence,1,Global,2,Female,9,20-24 years,298,HIV/AIDS,3,Rate,2023,43.810304394140005,50.356486380830006,38.39172846414
+1,All Population,6,Incidence,1,Global,1,Male,10,25-29 years,298,HIV/AIDS,3,Rate,2023,61.53066392614,76.52871861902,51.151455757799994
+1,All Population,6,Incidence,1,Global,2,Female,10,25-29 years,298,HIV/AIDS,3,Rate,2023,75.59172594678,86.06082528838,66.2422587206
+1,All Population,6,Incidence,1,Global,1,Male,11,30-34 years,298,HIV/AIDS,3,Rate,2023,66.34708062692,75.34844033544,58.06960556245
+1,All Population,6,Incidence,1,Global,2,Female,11,30-34 years,298,HIV/AIDS,3,Rate,2023,46.43019848793,53.21397083486,41.3900671787
+1,All Population,6,Incidence,1,Global,1,Male,12,35-39 years,298,HIV/AIDS,3,Rate,2023,55.7746393206,68.63465245735999,45.9832434375
+1,All Population,6,Incidence,1,Global,2,Female,12,35-39 years,298,HIV/AIDS,3,Rate,2023,35.59811838818,41.22123902463,31.36270761861
+1,All Population,6,Incidence,1,Global,1,Male,13,40-44 years,298,HIV/AIDS,3,Rate,2023,31.298557316360004,35.92104146056,27.05243775604
+1,All Population,6,Incidence,1,Global,2,Female,13,40-44 years,298,HIV/AIDS,3,Rate,2023,27.54384717878,31.40558573128,24.16783005485
+1,All Population,6,Incidence,1,Global,1,Male,39,0-14 years,298,HIV/AIDS,3,Rate,2023,10.899730570920001,11.89263270748,10.12645864374
+1,All Population,6,Incidence,1,Global,2,Female,39,0-14 years,298,HIV/AIDS,3,Rate,2023,11.10614856814,12.13620623569,10.32152940156
+1,All Population,6,Incidence,1,Global,1,Male,41,50-74 years,298,HIV/AIDS,3,Rate,2023,11.977015644200002,14.042230846719999,9.95448913899
+1,All Population,6,Incidence,1,Global,2,Female,41,50-74 years,298,HIV/AIDS,3,Rate,2023,10.16253490707,11.49716111671,8.91111947325
+1,All Population,6,Incidence,1,Global,1,Male,234,75+ years,298,HIV/AIDS,3,Rate,2023,2.59343221748,3.1855677677,2.0686583094
+1,All Population,6,Incidence,1,Global,2,Female,234,75+ years,298,HIV/AIDS,3,Rate,2023,0.82118885363,0.97354676304,0.6669443461400001
